@@ -1,0 +1,26 @@
+-classpath
+'/home/anderson/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.1/sqlite-jdbc-3.36.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/anderson/NetBeansProjects/challenge_4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/anderson/NetBeansProjects/challenge_4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'challenge_4 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/anderson/NetBeansProjects/challenge_4/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'challenge_4 1.0-SNAPSHOT API'
